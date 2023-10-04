@@ -16,14 +16,12 @@ df["age"] = ageColumn.astype(int)
 # Exercício nº1 #
 #################
 
+# Criação do arquivo e escrita dos dados
 
-
-# criação do arquivo e escrita dos dados
-
-# criando o arquivo de resposta
+# Criando o arquivo de resposta
 arquivo = open("Resposta01.txt","w")
 
-# criando as colunas com os nomes, idades e sexo
+# Criando as colunas com os nomes, idades e sexo
 arquivo.write(str(df[["name","sex","age"]].to_string()))
 arquivo.close()
 
@@ -33,7 +31,7 @@ arquivo.close()
 # Exercício nº2 #
 #################
 
-# variáveis para o sexo
+# Variáveis para o sexo
 sexColumn = df["sex"]
 sexMode = sexColumn.mode()[0]
 
@@ -60,7 +58,7 @@ print("\nNo barco haviam "+str(maleCount)+" homens e haviam "+str(femaleCount)+"
 # # Exercício nº3 #
 # #################
 
-# variáveil de sobrevivente
+# Variáveil de sobrevivente
 survivedColumn = df["survived"]
 survivedMode = survivedColumn.mode()[0]
 
@@ -81,7 +79,7 @@ for item in survivedColumn:
 # Utilizando um array para guardar os dados para o gráfico(pizza)
 dados = [deadCount,survivedCount]
 
-# gráfico(pizza) com porcentagem de sobreviventes e não sobreviventes
+# Gráfico(pizza) com porcentagem de sobreviventes e não sobreviventes
 plt.pie(dados, labels = ['Não Sobreviventes','Sobreviventes'], autopct='%1.0f%%')
 plt.show()
 
@@ -95,10 +93,10 @@ plt.show()
 fareColumn = df["fare"]
 fareMode = fareColumn.mode()[0]
 
-# preenchendo os campos nulos da coluna tarifa
+# Preenchendo os campos nulos da coluna tarifa
 fareColumn.fillna(fareMode, inplace=True)
 
-# grafico de disperção da idade
+# Grafico de disperção da idade
 plt.scatter ( ageColumn, fareColumn, alpha=0.5 )
 plt.title("idade por tarifa")
 plt.xlabel("idade")
