@@ -1,0 +1,1310 @@
+                                                                                    name     sex  age
+0                                                          Allen, Miss. Elisabeth Walton  female   29
+1                                                         Allison, Master. Hudson Trevor    male    0
+2                                                           Allison, Miss. Helen Loraine  female    2
+3                                                   Allison, Mr. Hudson Joshua Creighton    male   30
+4                                        Allison, Mrs. Hudson J C (Bessie Waldo Daniels)  female   25
+5                                                                    Anderson, Mr. Harry    male   48
+6                                                      Andrews, Miss. Kornelia Theodosia  female   63
+7                                                                 Andrews, Mr. Thomas Jr    male   39
+8                                          Appleton, Mrs. Edward Dale (Charlotte Lamson)  female   53
+9                                                                Artagaveytia, Mr. Ramon    male   71
+10                                                                Astor, Col. John Jacob    male   47
+11                                     Astor, Mrs. John Jacob (Madeleine Talmadge Force)  female   18
+12                                                         Aubart, Mme. Leontine Pauline  female   24
+13                                                          Barber, Miss. Ellen "Nellie"  female   26
+14                                                  Barkworth, Mr. Algernon Henry Wilson    male   80
+15                                                                   Baumann, Mr. John D    male   24
+16                                                              Baxter, Mr. Quigg Edmond    male   24
+17                                       Baxter, Mrs. James (Helene DeLaudeniere Chaput)  female   50
+18                                                                 Bazzani, Miss. Albina  female   32
+19                                                                  Beattie, Mr. Thomson    male   36
+20                                                         Beckwith, Mr. Richard Leonard    male   37
+21                                      Beckwith, Mrs. Richard Leonard (Sallie Monypeny)  female   47
+22                                                                 Behr, Mr. Karl Howell    male   26
+23                                                                 Bidois, Miss. Rosalie  female   42
+24                                                                     Bird, Miss. Ellen  female   29
+25                                                                   Birnbaum, Mr. Jakob    male   25
+26                                                               Bishop, Mr. Dickinson H    male   25
+27                                               Bishop, Mrs. Dickinson H (Helen Walton)  female   19
+28                                                                Bissette, Miss. Amelia  female   35
+29                                             Bjornstrom-Steffansson, Mr. Mauritz Hakan    male   28
+30                                                          Blackwell, Mr. Stephen Weart    male   45
+31                                                                      Blank, Mr. Henry    male   40
+32                                                               Bonnell, Miss. Caroline  female   30
+33                                                              Bonnell, Miss. Elizabeth  female   58
+34                                                              Borebank, Mr. John James    male   42
+35                                                              Bowen, Miss. Grace Scott  female   45
+36                                                           Bowerman, Miss. Elsie Edith  female   22
+37                                         Bradley, Mr. George ("George Arthur Brayton")    male   24
+38                                                               Brady, Mr. John Bertram    male   41
+39                                                                    Brandeis, Mr. Emil    male   48
+40                                                             Brewe, Dr. Arthur Jackson    male   24
+41                                             Brown, Mrs. James Joseph (Margaret Tobin)  female   44
+42                                        Brown, Mrs. John Murray (Caroline Lane Lamson)  female   59
+43                                       Bucknell, Mrs. William Robert (Emma Eliza Ward)  female   60
+44                                                       Burns, Miss. Elizabeth Margaret  female   41
+45                                                     Butt, Major. Archibald Willingham    male   45
+46                                                                 Cairns, Mr. Alexander    male   24
+47                                                     Calderhead, Mr. Edward Pennington    male   42
+48                                      Candee, Mrs. Edward (Helen Churchill Hungerford)  female   53
+49                                                    Cardeza, Mr. Thomas Drake Martinez    male   36
+50                       Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)  female   58
+51                                                              Carlsson, Mr. Frans Olof    male   33
+52                                                               Carrau, Mr. Francisco M    male   28
+53                                                                Carrau, Mr. Jose Pedro    male   17
+54                                                   Carter, Master. William Thornton II    male   11
+55                                                             Carter, Miss. Lucile Polk  female   14
+56                                                            Carter, Mr. William Ernest    male   36
+57                                             Carter, Mrs. William Ernest (Lucile Polk)  female   36
+58                                                                Case, Mr. Howard Brown    male   49
+59                           Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)  female   24
+60                                                         Cavendish, Mr. Tyrell William    male   36
+61                                Cavendish, Mrs. Tyrell William (Julia Florence Siegel)  female   76
+62                                                           Chaffee, Mr. Herbert Fuller    male   46
+63                               Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)  female   47
+64                                                         Chambers, Mr. Norman Campbell    male   27
+65                                        Chambers, Mrs. Norman Campbell (Bertha Griggs)  female   33
+66                                                           Chaudanson, Miss. Victorine  female   36
+67                                                                  Cherry, Miss. Gladys  female   30
+68                                                              Chevre, Mr. Paul Romaine    male   45
+69                                                Chibnall, Mrs. (Edith Martha Bowerman)  female   24
+70                                                 Chisholm, Mr. Roderick Robert Crispin    male   24
+71                                                              Clark, Mr. Walter Miller    male   27
+72                                         Clark, Mrs. Walter Miller (Virginia McDowell)  female   26
+73                                                                  Cleaver, Miss. Alice  female   22
+74                                                           Clifford, Mr. George Quincy    male   24
+75                                                            Colley, Mr. Edward Pomeroy    male   47
+76                                                           Compton, Miss. Sara Rebecca  female   39
+77                                                      Compton, Mr. Alexander Taylor Jr    male   37
+78                                 Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)  female   64
+79                                  Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)  female   55
+80                                                             Crafton, Mr. John Bertram    male   24
+81                                                          Crosby, Capt. Edward Gifford    male   70
+82                                                               Crosby, Miss. Harriet R  female   36
+83                            Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)  female   64
+84                                                             Cumings, Mr. John Bradley    male   39
+85                                   Cumings, Mrs. John Bradley (Florence Briggs Thayer)  female   38
+86                                                                Daly, Mr. Peter Denis     male   51
+87                                                           Daniel, Mr. Robert Williams    male   27
+88                                                                  Daniels, Miss. Sarah  female   33
+89                                                                Davidson, Mr. Thornton    male   31
+90                                                  Davidson, Mrs. Thornton (Orian Hays)  female   27
+91                                                               Dick, Mr. Albert Adrian    male   31
+92                                             Dick, Mrs. Albert Adrian (Vera Gillespie)  female   17
+93                                                                 Dodge, Dr. Washington    male   53
+94                                                             Dodge, Master. Washington    male    4
+95                                                 Dodge, Mrs. Washington (Ruth Vidaver)  female   54
+96                                                            Douglas, Mr. Walter Donald    male   50
+97                                  Douglas, Mrs. Frederick Charles (Mary Helene Baxter)  female   27
+98                                           Douglas, Mrs. Walter Donald (Mahala Dutton)  female   48
+99                     Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")  female   48
+100                                         Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan")    male   49
+101                                                         Dulles, Mr. William Crothers    male   39
+102                                                Earnshaw, Mrs. Boulton (Olive Potter)  female   23
+103                                                        Endres, Miss. Caroline Louise  female   38
+104                                                       Eustis, Miss. Elizabeth Mussey  female   54
+105                                                             Evans, Miss. Edith Corse  female   36
+106                                                                   Farthing, Mr. John    male   24
+107                                                 Flegenheim, Mrs. Alfred (Antoinette)  female   24
+108                                                              Fleming, Miss. Margaret  female   24
+109                                                     Flynn, Mr. John Irwin ("Irving")    male   36
+110                                                      Foreman, Mr. Benjamin Laventall    male   30
+111                                                       Fortune, Miss. Alice Elizabeth  female   24
+112                                                           Fortune, Miss. Ethel Flora  female   28
+113                                                           Fortune, Miss. Mabel Helen  female   23
+114                                                       Fortune, Mr. Charles Alexander    male   19
+115                                                                    Fortune, Mr. Mark    male   64
+116                                                  Fortune, Mrs. Mark (Mary McDougald)  female   60
+117                                                       Francatelli, Miss. Laura Mabel  female   30
+118                                                          Franklin, Mr. Thomas Parham    male   24
+119                                                        Frauenthal, Dr. Henry William    male   50
+120                                                         Frauenthal, Mr. Isaac Gerald    male   43
+121                                   Frauenthal, Mrs. Henry William (Clara Heinsheimer)  female   24
+122                                                   Frolicher, Miss. Hedwig Margaritha  female   22
+123                                                     Frolicher-Stehli, Mr. Maxmillian    male   60
+124                      Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)  female   48
+125                                                                     Fry, Mr. Richard    male   24
+126                                                          Futrelle, Mr. Jacques Heath    male   37
+127                                         Futrelle, Mrs. Jacques Heath (Lily May Peel)  female   35
+128                                                                    Gee, Mr. Arthur H    male   47
+129                                                                 Geiger, Miss. Amalie  female   35
+130                                                       Gibson, Miss. Dorothy Winifred  female   22
+131                                              Gibson, Mrs. Leonard (Pauline C Boeson)  female   45
+132                                                                   Giglio, Mr. Victor    male   24
+133                                                             Goldenberg, Mr. Samuel L    male   49
+134                                         Goldenberg, Mrs. Samuel L (Edwiga Grabowska)  female   24
+135                                                            Goldschmidt, Mr. George B    male   71
+136                                                            Gracie, Col. Archibald IV    male   53
+137                                                         Graham, Miss. Margaret Edith  female   19
+138                                                            Graham, Mr. George Edward    male   38
+139                                        Graham, Mrs. William Thompson (Edith Junkins)  female   58
+140                                                      Greenfield, Mr. William Bertram    male   23
+141                                         Greenfield, Mrs. Leo David (Blanche Strouse)  female   45
+142                                                             Guggenheim, Mr. Benjamin    male   46
+143                                                          Harder, Mr. George Achilles    male   25
+144                                         Harder, Mrs. George Achilles (Dorothy Annan)  female   25
+145                                                            Harper, Mr. Henry Sleeper    male   48
+146                                             Harper, Mrs. Henry Sleeper (Myna Haxtun)  female   49
+147                                                            Harrington, Mr. Charles H    male   24
+148                                                          Harris, Mr. Henry Birkhardt    male   45
+149                                         Harris, Mrs. Henry Birkhardt (Irene Wallach)  female   35
+150                                                                Harrison, Mr. William    male   40
+151                                                                   Hassab, Mr. Hammad    male   27
+152                                                          Hawksford, Mr. Walter James    male   24
+153                                                       Hays, Miss. Margaret Bechstein  female   24
+154                                                           Hays, Mr. Charles Melville    male   55
+155                                   Hays, Mrs. Charles Melville (Clara Jennings Gregg)  female   52
+156                                                                Head, Mr. Christopher    male   42
+157                                                          Hilliard, Mr. Herbert Henry    male   24
+158                                                          Hipkins, Mr. William Edward    male   55
+159                                                         Hippach, Miss. Jean Gertrude  female   16
+160                                      Hippach, Mrs. Louis Albert (Ida Sophia Fischer)  female   44
+161                                                 Hogeboom, Mrs. John C (Anna Andrews)  female   51
+162                                                       Holverson, Mr. Alexander Oskar    male   42
+163                                  Holverson, Mrs. Alexander Oskar (Mary Aline Towner)  female   35
+164                                                      Homer, Mr. Harry ("Mr E Haven")    male   35
+165                                                         Hoyt, Mr. Frederick Maxfield    male   38
+166                                                             Hoyt, Mr. William Fisher    male   24
+167                                      Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)  female   35
+168                                                                  Icard, Miss. Amelie  female   38
+169                                                           Isham, Miss. Ann Elizabeth  female   50
+170                                                              Ismay, Mr. Joseph Bruce    male   49
+171                                                           Jones, Mr. Charles Cresson    male   46
+172                                                             Julian, Mr. Henry Forbes    male   50
+173                                                                   Keeping, Mr. Edwin    male   32
+174                                                              Kent, Mr. Edward Austin    male   58
+175                                                              Kenyon, Mr. Frederick R    male   41
+176                                                    Kenyon, Mrs. Frederick R (Marion)  female   24
+177                                                         Kimball, Mr. Edwin Nelson Jr    male   42
+178                                     Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)  female   45
+179                                                                   Klaber, Mr. Herman    male   24
+180                                                               Kreuchen, Miss. Emilie  female   39
+181                                                          Leader, Dr. Alice (Farnham)  female   49
+182                                                                  LeRoy, Miss. Bertha  female   30
+183                                                               Lesurer, Mr. Gustave J    male   35
+184                                                                    Lewy, Mr. Ervin G    male   24
+185                                Lindeberg-Lind, Mr. Erik Gustaf ("Mr Edward Lingrey")    male   42
+186                                            Lindstrom, Mrs. Carl Johan (Sigrid Posse)  female   55
+187                                                            Lines, Miss. Mary Conover  female   16
+188                                       Lines, Mrs. Ernest H (Elizabeth Lindsey James)  female   51
+189                                                               Long, Mr. Milton Clyde    male   29
+190                                                        Longley, Miss. Gretchen Fiske  female   21
+191                                                           Loring, Mr. Joseph Holland    male   30
+192                                                                 Lurette, Miss. Elise  female   58
+193                                                    Madill, Miss. Georgette Alexandra  female   15
+194                                                             Maguire, Mr. John Edward    male   30
+195                                                                Maioni, Miss. Roberta  female   16
+196                                                                 Marechal, Mr. Pierre    male   24
+197                                                            Marvin, Mr. Daniel Warner    male   19
+198                       Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)  female   18
+199                                     Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")  female   24
+200                                                         McCaffry, Mr. Thomas Francis    male   46
+201                                                              McCarthy, Mr. Timothy J    male   54
+202                                                            McGough, Mr. James Robert    male   36
+203                                                              Meyer, Mr. Edgar Joseph    male   28
+204                                                Meyer, Mrs. Edgar Joseph (Leila Saks)  female   24
+205                                                            Millet, Mr. Francis Davis    male   65
+206                                                          Minahan, Dr. William Edward    male   44
+207                                                               Minahan, Miss. Daisy E  female   33
+208                                      Minahan, Mrs. William Edward (Lillian E Thorpe)  female   37
+209                                                             Mock, Mr. Philipp Edmund    male   30
+210                                                           Molson, Mr. Harry Markland    male   55
+211                                                       Moore, Mr. Clarence Bloomfield    male   47
+212                                                                Natsch, Mr. Charles H    male   37
+213                                                              Newell, Miss. Madeleine  female   31
+214                                                               Newell, Miss. Marjorie  female   23
+215                                                           Newell, Mr. Arthur Webster    male   58
+216                                                         Newsom, Miss. Helen Monypeny  female   19
+217                                                         Nicholson, Mr. Arthur Ernest    male   64
+218                                                         Oliva y Ocana, Dona. Fermina  female   39
+219                                                            Omont, Mr. Alfred Fernand    male   24
+220                                                         Ostby, Miss. Helene Ragnhild  female   22
+221                                                       Ostby, Mr. Engelhart Cornelius    male   65
+222                                                      Ovies y Rodriguez, Mr. Servando    male   28
+223                                                        Parr, Mr. William Henry Marsh    male   24
+224                                                                  Partner, Mr. Austen    male   45
+225                                                           Payne, Mr. Vivian Ponsonby    male   23
+226                                                            Pears, Mr. Thomas Clinton    male   29
+227                                                    Pears, Mrs. Thomas (Edith Wearne)  female   22
+228                                           Penasco y Castellana, Mr. Victor de Satode    male   18
+229   Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)  female   17
+230                                                                Perreault, Miss. Anne  female   30
+231                                                       Peuchen, Major. Arthur Godfrey    male   52
+232                                                       Porter, Mr. Walter Chamberlain    male   47
+233                                        Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)  female   56
+234                                                      Reuchlin, Jonkheer. John George    male   38
+235                                                  Rheims, Mr. George Alexander Lucien    male   24
+236                                                                  Ringhini, Mr. Sante    male   22
+237                                                                  Robbins, Mr. Victor    male   24
+238                                Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)  female   43
+239                                                 Roebling, Mr. Washington Augustus II    male   31
+240                                        Romaine, Mr. Charles Hallace ("Mr C Rolmane")    male   45
+241                                                                Rood, Mr. Hugh Roscoe    male   24
+242                                                        Rosenbaum, Miss. Edith Louise  female   33
+243                                          Rosenshine, Mr. George ("Mr George Thorne")    male   46
+244                                                                  Ross, Mr. John Hugo    male   36
+245                             Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)  female   33
+246                                                               Rothschild, Mr. Martin    male   55
+247                                       Rothschild, Mrs. Martin (Elizabeth L. Barrett)  female   54
+248                                                                   Rowe, Mr. Alfred G    male   33
+249                                                          Ryerson, Master. John Borie    male   13
+250                                                           Ryerson, Miss. Emily Borie  female   18
+251                                                Ryerson, Miss. Susan Parker "Suzette"  female   21
+252                                                           Ryerson, Mr. Arthur Larned    male   61
+253                                      Ryerson, Mrs. Arthur Larned (Emily Maria Borie)  female   48
+254                                                                Saalfeld, Mr. Adolphe    male   24
+255                                                                 Sagesser, Mlle. Emma  female   24
+256                                                               Salomon, Mr. Abraham L    male   24
+257                                                      Schabert, Mrs. Paul (Emma Mock)  female   35
+258                                                              Serepeca, Miss. Augusta  female   30
+259                                                          Seward, Mr. Frederic Kimber    male   34
+260                                                            Shutes, Miss. Elizabeth W  female   40
+261                                                     Silverthorne, Mr. Spencer Victor    male   35
+262                                                            Silvey, Mr. William Baird    male   50
+263                                            Silvey, Mrs. William Baird (Alice Munger)  female   39
+264                                                  Simonius-Blumer, Col. Oberst Alfons    male   56
+265                                                         Sloper, Mr. William Thompson    male   28
+266                                                           Smart, Mr. John Montgomery    male   56
+267                                                              Smith, Mr. James Clinch    male   56
+268                                                             Smith, Mr. Lucien Philip    male   24
+269                                                           Smith, Mr. Richard William    male   24
+270                                       Smith, Mrs. Lucien Philip (Mary Eloise Hughes)  female   18
+271                                                           Snyder, Mr. John Pillsbury    male   24
+272                                        Snyder, Mrs. John Pillsbury (Nelle Stevenson)  female   23
+273                                                      Spedden, Master. Robert Douglas    male    6
+274                                                         Spedden, Mr. Frederic Oakley    male   45
+275                             Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)  female   40
+276                                                        Spencer, Mr. William Augustus    male   57
+277                                       Spencer, Mrs. William Augustus (Marie Eugenie)  female   24
+278                                                            Stahelin-Maeglin, Dr. Max    male   32
+279                                                            Stead, Mr. William Thomas    male   62
+280                                                      Stengel, Mr. Charles Emil Henry    male   54
+281                                  Stengel, Mrs. Charles Emil Henry (Annie May Morris)  female   43
+282                                      Stephenson, Mrs. Walter Bertram (Martha Eustis)  female   52
+283                                                                Stewart, Mr. Albert A    male   24
+284                                            Stone, Mrs. George Nelson (Martha Evelyn)  female   62
+285                                                                   Straus, Mr. Isidor    male   67
+286                                               Straus, Mrs. Isidor (Rosalie Ida Blun)  female   63
+287                                                                Sutton, Mr. Frederick    male   61
+288                                  Swift, Mrs. Frederick Joel (Margaret Welles Barron)  female   48
+289                                                                  Taussig, Miss. Ruth  female   18
+290                                                                    Taussig, Mr. Emil    male   52
+291                                               Taussig, Mrs. Emil (Tillie Mandelbaum)  female   39
+292                                                             Taylor, Mr. Elmer Zebley    male   48
+293                                    Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)  female   24
+294                                                             Thayer, Mr. John Borland    male   49
+295                                                          Thayer, Mr. John Borland Jr    male   17
+296                                 Thayer, Mrs. John Borland (Marian Longstreth Morris)  female   39
+297                                                       Thorne, Mrs. Gertrude Maybelle  female   24
+298                                                      Tucker, Mr. Gilbert Milligan Jr    male   31
+299                                                             Uruchurtu, Don. Manuel E    male   40
+300                                                            Van der hoef, Mr. Wyckoff    male   61
+301                                                         Walker, Mr. William Anderson    male   47
+302                                                                     Ward, Miss. Anna  female   35
+303                                                             Warren, Mr. Frank Manley    male   64
+304                                     Warren, Mrs. Frank Manley (Anna Sophia Atkinson)  female   60
+305                                                                      Weir, Col. John    male   60
+306                                                          White, Mr. Percival Wayland    male   54
+307                                                            White, Mr. Richard Frasar    male   21
+308                                                White, Mrs. John Stuart (Ella Holmes)  female   55
+309                                                             Wick, Miss. Mary Natalie  female   31
+310                                                             Wick, Mr. George Dennick    male   57
+311                                           Wick, Mrs. George Dennick (Mary Hitchcock)  female   45
+312                                                           Widener, Mr. George Dunton    male   50
+313                                                            Widener, Mr. Harry Elkins    male   27
+314                                         Widener, Mrs. George Dunton (Eleanor Elkins)  female   50
+315                                                             Willard, Miss. Constance  female   21
+316                                                          Williams, Mr. Charles Duane    male   51
+317                                                      Williams, Mr. Richard Norris II    male   21
+318                                               Williams-Lambert, Mr. Fletcher Fellows    male   24
+319                                                            Wilson, Miss. Helen Alice  female   31
+320                                                                    Woolner, Mr. Hugh    male   24
+321                                                                   Wright, Mr. George    male   62
+322                                                             Young, Miss. Marie Grice  female   36
+323                                                                  Abelson, Mr. Samuel    male   30
+324                                                Abelson, Mrs. Samuel (Hannah Wizosky)  female   28
+325                                                       Aldworth, Mr. Charles Augustus    male   30
+326                                                           Andrew, Mr. Edgardo Samuel    male   18
+327                                                             Andrew, Mr. Frank Thomas    male   25
+328                                                                 Angle, Mr. William A    male   34
+329                                 Angle, Mrs. William A (Florence "Mary" Agnes Hughes)  female   36
+330                                                                      Ashby, Mr. John    male   57
+331                                                             Bailey, Mr. Percy Andrew    male   18
+332                                                       Baimbrigge, Mr. Charles Robert    male   23
+333                                                              Ball, Mrs. (Ada E Hall)  female   36
+334                                                        Banfield, Mr. Frederick James    male   28
+335                                                           Bateman, Rev. Robert James    male   51
+336                                                                    Beane, Mr. Edward    male   32
+337                                                    Beane, Mrs. Edward (Ethel Clarke)  female   19
+338                                                           Beauchamp, Mr. Henry James    male   28
+339                                                            Becker, Master. Richard F    male    1
+340                                                          Becker, Miss. Marion Louise  female    4
+341                                                         Becker, Miss. Ruth Elizabeth  female   12
+342                                     Becker, Mrs. Allen Oliver (Nellie E Baumgardner)  female   36
+343                                                                Beesley, Mr. Lawrence    male   34
+344                                                              Bentham, Miss. Lilian W  female   19
+345                                                           Berriman, Mr. William John    male   23
+346                                                           Botsford, Mr. William Hull    male   26
+347                                                                 Bowenur, Mr. Solomon    male   42
+348                                                                 Bracken, Mr. James H    male   27
+349                                                        Brown, Miss. Amelia "Mildred"  female   24
+350                                                            Brown, Miss. Edith Eileen  female   15
+351                                                    Brown, Mr. Thomas William Solomon    male   60
+352                        Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)  female   40
+353                                                  Bryhl, Miss. Dagmar Jenny Ingeborg   female   20
+354                                                      Bryhl, Mr. Kurt Arnold Gottfrid    male   25
+355                                                                     Buss, Miss. Kate  female   36
+356                                                          Butler, Mr. Reginald Fenton    male   25
+357                                                    Byles, Rev. Thomas Roussel Davids    male   42
+358                                                             Bystrom, Mrs. (Karolina)  female   42
+359                                                        Caldwell, Master. Alden Gates    male    0
+360                                                         Caldwell, Mr. Albert Francis    male   26
+361                                  Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)  female   22
+362                                                           Cameron, Miss. Clear Annie  female   35
+363                                                                Campbell, Mr. William    male   24
+364                                                                Carbines, Mr. William    male   19
+365                                        Carter, Mrs. Ernest Courtenay (Lilian Hughes)  female   44
+366                                                        Carter, Rev. Ernest Courtenay    male   54
+367                                                           Chapman, Mr. Charles Henry    male   52
+368                                                              Chapman, Mr. John Henry    male   37
+369                                      Chapman, Mrs. John Henry (Sara Elizabeth Lawry)  female   29
+370                                                          Christy, Miss. Julie Rachel  female   25
+371                                                        Christy, Mrs. (Alice Frances)  female   45
+372                                                        Clarke, Mr. Charles Valentine    male   29
+373                                          Clarke, Mrs. Charles V (Ada Maria Winfield)  female   28
+374                                                      Coleridge, Mr. Reginald Charles    male   29
+375                                                           Collander, Mr. Erik Gustaf    male   28
+376                                                         Collett, Mr. Sidney C Stuart    male   24
+377                                                     Collyer, Miss. Marjorie "Lottie"  female    8
+378                                                                  Collyer, Mr. Harvey    male   31
+379                                          Collyer, Mrs. Harvey (Charlotte Annie Tate)  female   31
+380                                                           Cook, Mrs. (Selena Rogers)  female   22
+381                                                Corbett, Mrs. Walter H (Irene Colvin)  female   30
+382                                  Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)  female   24
+383                                                         Cotterill, Mr. Henry "Harry"    male   21
+384                                                       Cunningham, Mr. Alfred Fleming    male   24
+385                                                       Davies, Master. John Morgan Jr    male    8
+386                                                            Davies, Mr. Charles Henry    male   18
+387                               Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)   female   48
+388                                                                    Davis, Miss. Mary  female   28
+389                                                           de Brito, Mr. Jose Joaquim    male   32
+390                                                            Deacon, Mr. Percy William    male   17
+391                                                            del Carlo, Mr. Sebastiano    male   29
+392                                        del Carlo, Mrs. Sebastiano (Argenia Genovesi)  female   24
+393                                                                 Denbury, Mr. Herbert    male   25
+394                                                                  Dibden, Mr. William    male   18
+395                                                                  Doling, Miss. Elsie  female   18
+396                                                 Doling, Mrs. John T (Ada Julia Bone)  female   34
+397                                                           Downton, Mr. William James    male   54
+398                                                        Drew, Master. Marshall Brines    male    8
+399                                                               Drew, Mr. James Vivian    male   42
+400                                      Drew, Mrs. James Vivian (Lulu Thorne Christian)  female   34
+401                                                         Duran y More, Miss. Asuncion  female   27
+402                                                       Duran y More, Miss. Florentina  female   30
+403                                                         Eitemiller, Mr. George Floyd    male   23
+404                                                                  Enander, Mr. Ingvar    male   21
+405                                                            Fahlstrom, Mr. Arne Jonas    male   18
+406                                                                Faunthorpe, Mr. Harry    male   40
+407                                   Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)  female   29
+408                                                        Fillbrook, Mr. Joseph Charles    male   18
+409                                                              Fox, Mr. Stanley Hubert    male   36
+410                                                     Frost, Mr. Anthony Wood "Archie"    male   24
+411                                                            Funk, Miss. Annie Clemmer  female   38
+412                                                                 Fynney, Mr. Joseph J    male   35
+413                                                                      Gale, Mr. Harry    male   38
+414                                                                   Gale, Mr. Shadrach    male   34
+415                                                                 Garside, Miss. Ethel  female   34
+416                                                                  Gaskell, Mr. Alfred    male   16
+417                                                                  Gavey, Mr. Lawrence    male   26
+418                                                                 Gilbert, Mr. William    male   47
+419                                                                     Giles, Mr. Edgar    male   21
+420                                                          Giles, Mr. Frederick Edward    male   21
+421                                                                     Giles, Mr. Ralph    male   24
+422                                                               Gill, Mr. John William    male   24
+423                                                         Gillespie, Mr. William Henry    male   34
+424                                                          Givard, Mr. Hans Kristensen    male   30
+425                                                                Greenberg, Mr. Samuel    male   52
+426                                                                   Hale, Mr. Reginald    male   30
+427                                                            Hamalainen, Master. Viljo    male    0
+428                                                      Hamalainen, Mrs. William (Anna)  female   24
+429                                                               Harbeck, Mr. William H    male   44
+430                                                    Harper, Miss. Annie Jessie "Nina"  female    6
+431                                                                    Harper, Rev. John    male   28
+432                                                                   Harris, Mr. George    male   62
+433                                                                   Harris, Mr. Walter    male   30
+434                                                               Hart, Miss. Eva Miriam  female    7
+435                                                                   Hart, Mr. Benjamin    male   43
+436                                          Hart, Mrs. Benjamin (Esther Ada Bloomfield)  female   45
+437                                                                  Herman, Miss. Alice  female   24
+438                                                                   Herman, Miss. Kate  female   24
+439                                                                   Herman, Mr. Samuel    male   49
+440                                                     Herman, Mrs. Samuel (Jane Laver)  female   48
+441                                                     Hewlett, Mrs. (Mary D Kingcome)   female   55
+442                                                            Hickman, Mr. Leonard Mark    male   24
+443                                                                   Hickman, Mr. Lewis    male   32
+444                                                          Hickman, Mr. Stanley George    male   21
+445                                                                Hiltunen, Miss. Marta  female   18
+446                                                        Hocking, Miss. Ellen "Nellie"  female   20
+447                                                          Hocking, Mr. Richard George    male   23
+448                                                   Hocking, Mr. Samuel James Metcalfe    male   36
+449                                                Hocking, Mrs. Elizabeth (Eliza Needs)  female   54
+450                                                              Hodges, Mr. Henry Price    male   50
+451                                                                    Hold, Mr. Stephen    male   44
+452                                             Hold, Mrs. Stephen (Annie Margaret Hill)  female   29
+453                                                                 Hood, Mr. Ambrose Jr    male   21
+454                                                                 Hosono, Mr. Masabumi    male   42
+455                                                                 Howard, Mr. Benjamin    male   63
+456                                         Howard, Mrs. Benjamin (Ellen Truelove Arman)  female   60
+457                                                               Hunt, Mr. George Henry    male   33
+458                                                                  Ilett, Miss. Bertha  female   17
+459                                                         Jacobsohn, Mr. Sidney Samuel    male   42
+460                                  Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)  female   24
+461                                                              Jarvis, Mr. John Denzil    male   47
+462                                                        Jefferys, Mr. Clifford Thomas    male   24
+463                                                         Jefferys, Mr. Ernest Wilfred    male   22
+464                                                           Jenkin, Mr. Stephen Curnow    male   32
+465                                         Jerwan, Mrs. Amin S (Marie Marthe Thuillard)  female   23
+466                                                                    Kantor, Mr. Sinai    male   34
+467                                                  Kantor, Mrs. Sinai (Miriam Sternin)  female   24
+468                                                Karnes, Mrs. J Frank (Claire Bennett)  female   22
+469                                                                  Keane, Miss. Nora A  female   24
+470                                                                    Keane, Mr. Daniel    male   35
+471                                                        Kelly, Mrs. Florence "Fannie"  female   45
+472                                                       Kirkland, Rev. Charles Leonard    male   57
+473                                                                 Knight, Mr. Robert J    male   24
+474                                               Kvillner, Mr. Johan Henrik Johannesson    male   31
+475                                                Lahtinen, Mrs. William (Anna Sylfven)  female   26
+476                                                               Lahtinen, Rev. William    male   30
+477                                                                Lamb, Mr. John Joseph    male   24
+478                                                                Laroche, Miss. Louise  female    1
+479                                             Laroche, Miss. Simonne Marie Anne Andree  female    3
+480                                               Laroche, Mr. Joseph Philippe Lemercier    male   25
+481                                Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)  female   22
+482                                                                Lehmann, Miss. Bertha  female   17
+483                                                           Leitch, Miss. Jessie Wills  female   24
+484                                                         Lemore, Mrs. (Amelia Milley)  female   34
+485                                                               Levy, Mr. Rene Jacques    male   36
+486                                                    Leyson, Mr. Robert William Norman    male   24
+487                                                                    Lingane, Mr. John    male   61
+488                                                         Louch, Mr. Charles Alexander    male   50
+489                                  Louch, Mrs. Charles Alexander (Alice Adelaide Slow)  female   42
+490                                                                    Mack, Mrs. (Mary)  female   57
+491                                                                  Malachard, Mr. Noel    male   24
+492                                                                Mallet, Master. Andre    male    1
+493                                                                   Mallet, Mr. Albert    male   31
+494                                              Mallet, Mrs. Albert (Antoinette Magnin)  female   24
+495                                                    Mangiavacchi, Mr. Serafino Emilio    male   24
+496                                                           Matthews, Mr. William John    male   30
+497                                                            Maybery, Mr. Frank Hubert    male   40
+498                                                            McCrae, Mr. Arthur Gordon    male   32
+499                                                            McCrie, Mr. James Matthew    male   30
+500                                                              McKane, Mr. Peter David    male   46
+501                                                    Mellinger, Miss. Madeleine Violet  female   13
+502                                            Mellinger, Mrs. (Elizabeth Anne Maidment)  female   41
+503                                                            Mellors, Mr. William John    male   19
+504                                                                    Meyer, Mr. August    male   39
+505                                                         Milling, Mr. Jacob Christian    male   48
+506                                                          Mitchell, Mr. Henry Michael    male   70
+507                                                                Montvila, Rev. Juozas    male   27
+508                                                                 Moraweck, Dr. Ernest    male   54
+509                                       Morley, Mr. Henry Samuel ("Mr Henry Marshall")    male   39
+510                                                             Mudd, Mr. Thomas Charles    male   16
+511                                                            Myles, Mr. Thomas Francis    male   62
+512                                                                 Nasser, Mr. Nicholas    male   32
+513                                                  Nasser, Mrs. Nicholas (Adele Achem)  female   14
+514                                                       Navratil, Master. Edmond Roger    male    2
+515                                                           Navratil, Master. Michel M    male    3
+516                                             Navratil, Mr. Michel ("Louis M Hoffman")    male   36
+517                                                                   Nesson, Mr. Israel    male   26
+518                                                         Nicholls, Mr. Joseph Charles    male   19
+519                                                           Norman, Mr. Robert Douglas    male   28
+520                                         Nourney, Mr. Alfred ("Baron von Drachstedt")    male   20
+521                                                         Nye, Mrs. (Elizabeth Ramell)  female   29
+522                                                                   Otter, Mr. Richard    male   39
+523                                                            Oxenham, Mr. Percy Thomas    male   22
+524                                                           Padro y Manent, Mr. Julian    male   24
+525                                                                     Pain, Dr. Alfred    male   23
+526                                                        Pallas y Castello, Mr. Emilio    male   29
+527                                                         Parker, Mr. Clifford Richard    male   28
+528                                                          Parkes, Mr. Francis "Frank"    male   24
+529                                                          Parrish, Mrs. (Lutie Davis)  female   50
+530                                                      Pengelly, Mr. Frederick William    male   19
+531                                                                     Pernot, Mr. Rene    male   24
+532                                                        Peruschitz, Rev. Joseph Maria    male   41
+533                                                 Phillips, Miss. Alice Frances Louisa  female   21
+534                  Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")  female   19
+535                                                          Phillips, Mr. Escott Robert    male   43
+536                                                                  Pinsky, Mrs. (Rosa)  female   32
+537                                                                 Ponesell, Mr. Martin    male   34
+538                                               Portaluppi, Mr. Emilio Ilario Giuseppe    male   30
+539                                                                   Pulbaum, Mr. Franz    male   27
+540                                                             Quick, Miss. Phyllis May  female    2
+541                                                           Quick, Miss. Winifred Vera  female    8
+542                                        Quick, Mrs. Frederick Charles (Jane Richards)  female   33
+543                                                                    Reeves, Mr. David    male   36
+544                                                              Renouf, Mr. Peter Henry    male   34
+545                                          Renouf, Mrs. Peter Henry (Lillian Jefferys)  female   30
+546                                                            Reynaldo, Ms. Encarnacion  female   28
+547                                                                   Richard, Mr. Emile    male   23
+548                                                      Richards, Master. George Sibley    male    0
+549                                                       Richards, Master. William Rowe    male    3
+550                                                Richards, Mrs. Sidney (Emily Hocking)  female   24
+551                                                                 Ridsdale, Miss. Lucy  female   50
+552                                                           Rogers, Mr. Reginald Harry    male   19
+553                                                                    Rugg, Miss. Emily  female   21
+554                                                                  Schmidt, Mr. August    male   26
+555                                           Sedgwick, Mr. Charles Frederick Waddington    male   25
+556                                                          Sharp, Mr. Percival James R    male   27
+557                                         Shelley, Mrs. William (Imanita Parrish Hall)  female   25
+558                                                        Silven, Miss. Lyyli Karoliina  female   18
+559                                                                 Sincock, Miss. Maude  female   20
+560                                                                Sinkkonen, Miss. Anna  female   30
+561                                                            Sjostedt, Mr. Ernst Adolf    male   59
+562                                                            Slayter, Miss. Hilda Mary  female   30
+563                                                            Slemen, Mr. Richard James    male   35
+564                                                            Smith, Miss. Marion Elsie  female   40
+565                                                       Sobey, Mr. Samuel James Hayden    male   25
+566                                                             Stanton, Mr. Samuel Ward    male   41
+567                                                            Stokes, Mr. Philip Joseph    male   25
+568                                                                    Swane, Mr. George    male   18
+569                                                          Sweet, Mr. George Frederick    male   14
+570                                                                  Toomey, Miss. Ellen  female   50
+571                                                         Troupiansky, Mr. Moses Aaron    male   23
+572                                                     Trout, Mrs. William H (Jessie L)  female   28
+573                                                  Troutt, Miss. Edwina Celia "Winnie"  female   27
+574                                                      Turpin, Mr. William John Robert    male   29
+575                             Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)  female   27
+576                                                                      Veal, Mr. James    male   40
+577                                                               Walcroft, Miss. Nellie  female   31
+578                                                                 Ware, Mr. John James    male   30
+579                                                            Ware, Mr. William Jeffery    male   23
+580                                         Ware, Mrs. John James (Florence Louise Long)  female   31
+581                                                           Watson, Mr. Ennis Hastings    male   24
+582                                                                 Watt, Miss. Bertha J  female   12
+583                                   Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne)  female   40
+584                                                                  Webber, Miss. Susan  female   32
+585                                                                   Weisz, Mr. Leopold    male   27
+586                                        Weisz, Mrs. Leopold (Mathilde Francoise Pede)  female   29
+587                                                          Wells, Master. Ralph Lester    male    2
+588                                                                    Wells, Miss. Joan  female    4
+589                                    Wells, Mrs. Arthur Henry ("Addie" Dart Trevaskis)  female   29
+590                                                                West, Miss. Barbara J  female    0
+591                                                         West, Miss. Constance Mirium  female    5
+592                                                                West, Mr. Edwy Arthur    male   36
+593                                              West, Mrs. Edwy Arthur (Ada Mary Worth)  female   33
+594                                                                Wheadon, Mr. Edward H    male   66
+595                                                       Wheeler, Mr. Edwin "Frederick"    male   24
+596                                                                Wilhelms, Mr. Charles    male   31
+597                                                         Williams, Mr. Charles Eugene    male   24
+598                                                                 Wright, Miss. Marion  female   26
+599                                               Yrois, Miss. Henriette ("Mrs Harbeck")  female   24
+600                                                                  Abbing, Mr. Anthony    male   42
+601                                                        Abbott, Master. Eugene Joseph    male   13
+602                                                          Abbott, Mr. Rossmore Edward    male   16
+603                                                     Abbott, Mrs. Stanton (Rosa Hunt)  female   35
+604                                                          Abelseth, Miss. Karen Marie  female   16
+605                                                        Abelseth, Mr. Olaus Jorgensen    male   25
+606                                             Abrahamsson, Mr. Abraham August Johannes    male   20
+607                                            Abrahim, Mrs. Joseph (Sophie Halaut Easu)  female   18
+608                                                       Adahl, Mr. Mauritz Nils Martin    male   30
+609                                                                      Adams, Mr. John    male   26
+610                                       Ahlin, Mrs. Johan (Johanna Persdotter Larsson)  female   40
+611                                                            Aks, Master. Philip Frank    male    0
+612                                                           Aks, Mrs. Sam (Leah Rosen)  female   18
+613                                                          Albimona, Mr. Nassef Cassem    male   26
+614                                                               Alexander, Mr. William    male   26
+615                                                          Alhomaki, Mr. Ilmari Rudolf    male   20
+616                                                                       Ali, Mr. Ahmed    male   24
+617                                                                     Ali, Mr. William    male   25
+618                                                             Allen, Mr. William Henry    male   35
+619                                                               Allum, Mr. Owen George    male   18
+620                                                          Andersen, Mr. Albert Karvin    male   32
+621                                      Andersen-Jensen, Miss. Carla Christine Nielsine  female   19
+622                                              Andersson, Master. Sigvard Harald Elias    male    4
+623                                                   Andersson, Miss. Ebba Iris Alfrida  female    6
+624                                                    Andersson, Miss. Ellis Anna Maria  female    2
+625                                                      Andersson, Miss. Erna Alexandra  female   17
+626                                               Andersson, Miss. Ida Augusta Margareta  female   38
+627                                                 Andersson, Miss. Ingeborg Constanzia  female    9
+628                                                    Andersson, Miss. Sigrid Elisabeth  female   11
+629                                                          Andersson, Mr. Anders Johan    male   39
+630                                         Andersson, Mr. August Edvard ("Wennerstrom")    male   27
+631                                                          Andersson, Mr. Johan Samuel    male   26
+632                            Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)  female   39
+633                                                           Andreasson, Mr. Paul Edvin    male   20
+634                                                                 Angheloff, Mr. Minko    male   26
+635                                                            Arnold-Franchi, Mr. Josef    male   25
+636                                        Arnold-Franchi, Mrs. Josef (Josefine Franchi)  female   18
+637                                                       Aronsson, Mr. Ernst Axel Algot    male   24
+638                                                                      Asim, Mr. Adola    male   35
+639                                                          Asplund, Master. Carl Edgar    male    5
+640                                                Asplund, Master. Clarence Gustaf Hugo    male    9
+641                                                    Asplund, Master. Edvin Rojj Felix    male    3
+642                                                         Asplund, Master. Filip Oscar    male   13
+643                                                       Asplund, Miss. Lillian Gertrud  female    5
+644                                           Asplund, Mr. Carl Oscar Vilhelm Gustafsson    male   40
+645                                                           Asplund, Mr. Johan Charles    male   23
+646                            Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)  female   38
+647                                                Assaf Khalil, Mrs. Mariana ("Miriam")  female   45
+648                                                                    Assaf, Mr. Gerios    male   21
+649                                                                       Assam, Mr. Ali    male   23
+650                                                                Attalah, Miss. Malake  female   17
+651                                                                 Attalah, Mr. Sleiman    male   30
+652                                                               Augustsson, Mr. Albert    male   23
+653                                                                 Ayoub, Miss. Banoura  female   13
+654                                                                  Baccos, Mr. Raffull    male   20
+655                                                           Backstrom, Mr. Karl Alfred    male   32
+656                              Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)  female   33
+657                                                               Baclini, Miss. Eugenie  female    0
+658                                                        Baclini, Miss. Helene Barbara  female    0
+659                                                       Baclini, Miss. Marie Catherine  female    5
+660                                                Baclini, Mrs. Solomon (Latifa Qurban)  female   24
+661                                                           Badman, Miss. Emily Louisa  female   18
+662                                                                    Badt, Mr. Mohamed    male   40
+663                                                                    Balkic, Mr. Cerin    male   26
+664                                                                Barah, Mr. Hanna Assi    male   20
+665                                                                Barbara, Miss. Saiide  female   18
+666                                                      Barbara, Mrs. (Catherine David)  female   45
+667                                                                   Barry, Miss. Julia  female   27
+668                                                               Barton, Mr. David John    male   22
+669                                                           Beavan, Mr. William Thomas    male   19
+670                                                           Bengtsson, Mr. John Viktor    male   26
+671                                                         Berglund, Mr. Karl Ivar Sven    male   22
+672                                                                Betros, Master. Seman    male   24
+673                                                                  Betros, Mr. Tannous    male   20
+674                                                                        Bing, Mr. Lee    male   32
+675                                                    Birkeland, Mr. Hans Martin Monsen    male   21
+676                                                         Bjorklund, Mr. Ernst Herbert    male   18
+677                                                            Bostandyeff, Mr. Guentcho    male   26
+678                                                                 Boulos, Master. Akar    male    6
+679                                                              Boulos, Miss. Nourelain  female    9
+680                                                                    Boulos, Mr. Hanna    male   24
+681                                                        Boulos, Mrs. Joseph (Sultana)  female   24
+682                                                                   Bourke, Miss. Mary  female   24
+683                                                                     Bourke, Mr. John    male   40
+684                                                        Bourke, Mrs. John (Catherine)  female   32
+685                                                          Bowen, Mr. David John "Dai"    male   21
+686                                                         Bradley, Miss. Bridget Delia  female   22
+687                                                         Braf, Miss. Elin Ester Maria  female   20
+688                                                            Braund, Mr. Lewis Richard    male   29
+689                                                              Braund, Mr. Owen Harris    male   22
+690                                                             Brobeck, Mr. Karl Rudolf    male   22
+691                                                      Brocklebank, Mr. William Alfred    male   35
+692                                                             Buckley, Miss. Katherine  female   18
+693                                                                  Buckley, Mr. Daniel    male   21
+694                                                                  Burke, Mr. Jeremiah    male   19
+695                                                              Burns, Miss. Mary Delia  female   18
+696                                                                   Cacic, Miss. Manda  female   21
+697                                                                  Cacic, Miss. Marija  female   30
+698                                                                 Cacic, Mr. Jego Grga    male   18
+699                                                                      Cacic, Mr. Luka    male   38
+700                                                                      Calic, Mr. Jovo    male   17
+701                                                                     Calic, Mr. Petar    male   17
+702                                                                  Canavan, Miss. Mary  female   21
+703                                                                 Canavan, Mr. Patrick    male   21
+704                                                             Cann, Mr. Ernest Charles    male   21
+705                                                                    Caram, Mr. Joseph    male   24
+706                                                     Caram, Mrs. Joseph (Maria Elias)  female   24
+707                                                         Carlsson, Mr. August Sigfrid    male   28
+708                                                            Carlsson, Mr. Carl Robert    male   24
+709                                                            Carr, Miss. Helen "Ellen"  female   16
+710                                                                  Carr, Miss. Jeannie  female   37
+711                                                              Carver, Mr. Alfred John    male   28
+712                                                               Celotti, Mr. Francesco    male   24
+713                                                                  Charters, Mr. David    male   21
+714                                                                      Chip, Mr. Chang    male   32
+715                                                                 Christmann, Mr. Emil    male   29
+716                                                          Chronopoulos, Mr. Apostolos    male   26
+717                                                          Chronopoulos, Mr. Demetrios    male   18
+718                                                       Coelho, Mr. Domingos Fernandeo    male   20
+719                                                             Cohen, Mr. Gurshon "Gus"    male   18
+720                                                                 Colbert, Mr. Patrick    male   24
+721                                                                     Coleff, Mr. Peju    male   36
+722                                                                    Coleff, Mr. Satio    male   24
+723                                                             Conlon, Mr. Thomas Henry    male   31
+724                                                              Connaghton, Mr. Michael    male   31
+725                                                                 Connolly, Miss. Kate  female   22
+726                                                                 Connolly, Miss. Kate  female   30
+727                                                                 Connors, Mr. Patrick    male   70
+728                                                                      Cook, Mr. Jacob    male   43
+729                                                                      Cor, Mr. Bartol    male   35
+730                                                                        Cor, Mr. Ivan    male   27
+731                                                                    Cor, Mr. Liudevit    male   19
+732                                                                      Corn, Mr. Harry    male   30
+733                                                Coutts, Master. Eden Leslie "Neville"    male    9
+734                                               Coutts, Master. William Loch "William"    male    3
+735                                       Coutts, Mrs. William (Winnie "Minnie" Treanor)  female   36
+736                                                                    Coxon, Mr. Daniel    male   59
+737                                                             Crease, Mr. Ernest James    male   19
+738                                                             Cribb, Miss. Laura Alice  female   17
+739                                                             Cribb, Mr. John Hatfield    male   44
+740                                                                  Culumovic, Mr. Jeso    male   17
+741                                                                    Daher, Mr. Shedid    male   22
+742                                                                Dahl, Mr. Karl Edwart    male   45
+743                                                         Dahlberg, Miss. Gerda Ulrika  female   22
+744                                                                    Dakic, Mr. Branko    male   19
+745                                               Daly, Miss. Margaret Marcella "Maggie"  female   30
+746                                                             Daly, Mr. Eugene Patrick    male   29
+747                                              Danbom, Master. Gilbert Sigvard Emanuel    male    0
+748                                                            Danbom, Mr. Ernst Gilbert    male   34
+749                               Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)  female   28
+750                                                                     Danoff, Mr. Yoto    male   27
+751                                                                Dantcheff, Mr. Ristiu    male   25
+752                                                                 Davies, Mr. Alfred J    male   24
+753                                                                     Davies, Mr. Evan    male   22
+754                                                              Davies, Mr. John Samuel    male   21
+755                                                                   Davies, Mr. Joseph    male   17
+756                                                            Davison, Mr. Thomas Henry    male   24
+757                                            Davison, Mrs. Thomas Henry (Mary E Finck)  female   24
+758                                                 de Messemaeker, Mr. Guillaume Joseph    male   36
+759                                         de Messemaeker, Mrs. Guillaume Joseph (Emma)  female   36
+760                                                              de Mulder, Mr. Theodore    male   30
+761                                                            de Pelsmaeker, Mr. Alfons    male   16
+762                                                           Dean, Master. Bertram Vere    male    1
+763                                              Dean, Miss. Elizabeth Gladys "Millvina"  female    0
+764                                                              Dean, Mr. Bertram Frank    male   26
+765                                             Dean, Mrs. Bertram (Eva Georgetta Light)  female   33
+766                                                                   Delalic, Mr. Redjo    male   25
+767                                                                 Demetri, Mr. Marinko    male   24
+768                                                                   Denkoff, Mr. Mitto    male   24
+769                                                                   Dennis, Mr. Samuel    male   22
+770                                                                  Dennis, Mr. William    male   36
+771                                                        Devaney, Miss. Margaret Delia  female   19
+772                                                                      Dika, Mr. Mirko    male   17
+773                                                                     Dimic, Mr. Jovan    male   42
+774                                                               Dintcheff, Mr. Valtcho    male   43
+775                                                                  Doharr, Mr. Tannous    male   24
+776                                                                  Dooley, Mr. Patrick    male   32
+777                                                           Dorking, Mr. Edward Arthur    male   19
+778                                                             Dowdell, Miss. Elizabeth  female   30
+779                                                               Doyle, Miss. Elizabeth  female   24
+780                                                                Drapkin, Miss. Jennie  female   23
+781                                                                 Drazenoic, Mr. Jozef    male   33
+782                                                                     Duane, Mr. Frank    male   65
+783                                                                 Duquemin, Mr. Joseph    male   24
+784                                                             Dyker, Mr. Adolf Fredrik    male   23
+785                          Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)  female   22
+786                                                       Edvardsson, Mr. Gustaf Hjalmar    male   18
+787                                                               Eklund, Mr. Hans Linus    male   16
+788                                                                   Ekstrom, Mr. Johan    male   45
+789                                                                      Elias, Mr. Dibo    male   24
+790                                                                    Elias, Mr. Joseph    male   39
+791                                                                 Elias, Mr. Joseph Jr    male   17
+792                                                                   Elias, Mr. Tannous    male   15
+793                                                           Elsbury, Mr. William James    male   47
+794                                                        Emanuel, Miss. Virginia Ethel  female    5
+795                                                              Emir, Mr. Farred Chehab    male   24
+796                                                            Everett, Mr. Thomas James    male   40
+797                                                                   Farrell, Mr. James    male   40
+798                                                                    Finoli, Mr. Luigi    male   24
+799                                                      Fischer, Mr. Eberhard Thelander    male   18
+800                                                                Fleming, Miss. Honora  female   24
+801                                                                     Flynn, Mr. James    male   24
+802                                                                      Flynn, Mr. John    male   24
+803                                                                    Foley, Mr. Joseph    male   26
+804                                                                   Foley, Mr. William    male   24
+805                                                                      Foo, Mr. Choong    male   24
+806                                                 Ford, Miss. Doolina Margaret "Daisy"  female   21
+807                                                     Ford, Miss. Robina Maggie "Ruby"  female    9
+808                                                                     Ford, Mr. Arthur    male   24
+809                                                              Ford, Mr. Edward Watson    male   18
+810                                                               Ford, Mr. William Neal    male   16
+811                                              Ford, Mrs. Edward (Margaret Ann Watson)  female   48
+812                                                                     Fox, Mr. Patrick    male   24
+813                                               Franklin, Mr. Charles (Charles Fardon)    male   24
+814                                                                Gallagher, Mr. Martin    male   25
+815                                                                   Garfirth, Mr. John    male   24
+816                                                               Gheorgheff, Mr. Stanio    male   24
+817                                                                Gilinski, Mr. Eliezer    male   22
+818                                                     Gilnagh, Miss. Katherine "Katie"  female   16
+819                                                             Glynn, Miss. Mary Agatha  female   24
+820                                      Goldsmith, Master. Frank John William "Frankie"    male    9
+821                                                            Goldsmith, Mr. Frank John    male   33
+822                                                                Goldsmith, Mr. Nathan    male   41
+823                                       Goldsmith, Mrs. Frank John (Emily Alice Brown)  female   31
+824                                                      Goncalves, Mr. Manuel Estanslas    male   38
+825                                                       Goodwin, Master. Harold Victor    male    9
+826                                                      Goodwin, Master. Sidney Leonard    male    1
+827                                                   Goodwin, Master. William Frederick    male   11
+828                                                          Goodwin, Miss. Jessie Allis  female   10
+829                                                           Goodwin, Miss. Lillian Amy  female   16
+830                                                          Goodwin, Mr. Charles Edward    male   14
+831                                                       Goodwin, Mr. Charles Frederick    male   40
+832                                              Goodwin, Mrs. Frederick (Augusta Tyler)  female   43
+833                                                              Green, Mr. George Henry    male   51
+834                                                     Gronnestad, Mr. Daniel Danielsen    male   32
+835                                                                    Guest, Mr. Robert    male   24
+836                                                        Gustafsson, Mr. Alfred Ossian    male   20
+837                                                       Gustafsson, Mr. Anders Vilhelm    male   37
+838                                                         Gustafsson, Mr. Johan Birger    male   28
+839                                                          Gustafsson, Mr. Karl Gideon    male   19
+840                                                                  Haas, Miss. Aloisia  female   24
+841                                                                 Hagardon, Miss. Kate  female   17
+842                                                      Hagland, Mr. Ingvald Olai Olsen    male   24
+843                                                 Hagland, Mr. Konrad Mathias Reiersen    male   24
+844                                                       Hakkarainen, Mr. Pekka Pietari    male   28
+845                                 Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)  female   24
+846                                                                      Hampe, Mr. Leon    male   20
+847                                                                   Hanna, Mr. Mansour    male   23
+848                                                              Hansen, Mr. Claus Peter    male   41
+849                                                              Hansen, Mr. Henrik Juul    male   26
+850                                                          Hansen, Mr. Henry Damsgaard    male   21
+851                                           Hansen, Mrs. Claus Peter (Jennie L Howard)  female   45
+852                                                         Harknett, Miss. Alice Phoebe  female   24
+853                                                   Harmer, Mr. Abraham (David Lishin)    male   25
+854                                                                      Hart, Mr. Henry    male   24
+855                                                             Hassan, Mr. Houssein G N    male   11
+856                                                           Healy, Miss. Hanora "Nora"  female   24
+857                                                              Hedman, Mr. Oskar Arvid    male   27
+858                                                                        Hee, Mr. Ling    male   24
+859                                                         Hegarty, Miss. Hanora "Nora"  female   18
+860                                                               Heikkinen, Miss. Laina  female   26
+861                                                         Heininen, Miss. Wendla Maria  female   23
+862                                                         Hellstrom, Miss. Hilda Maria  female   22
+863                                                               Hendekovic, Mr. Ignjac    male   28
+864                                                       Henriksson, Miss. Jenny Lovisa  female   28
+865                                                                   Henry, Miss. Delia  female   24
+866                                                             Hirvonen, Miss. Hildur E  female    2
+867                                         Hirvonen, Mrs. Alexander (Helga E Lindqvist)  female   22
+868                                                     Holm, Mr. John Fredrik Alexander    male   43
+869                                                            Holthen, Mr. Johan Martin    male   28
+870                                                               Honkanen, Miss. Eliina  female   27
+871                                                                     Horgan, Mr. John    male   24
+872                                                          Howard, Miss. May Elizabeth  female   24
+873                                             Humblen, Mr. Adolf Mathias Nicolai Olsen    male   42
+874                                                                   Hyman, Mr. Abraham    male   24
+875                                                         Ibrahim Shawah, Mr. Yousseff    male   30
+876                                                                     Ilieff, Mr. Ylio    male   24
+877                                                         Ilmakangas, Miss. Ida Livija  female   27
+878                                                        Ilmakangas, Miss. Pieta Sofia  female   25
+879                                                                   Ivanoff, Mr. Kanio    male   24
+880                                                                   Jalsevac, Mr. Ivan    male   29
+881                                                               Jansson, Mr. Carl Olof    male   21
+882                                                                Jardin, Mr. Jose Neto    male   24
+883                                                               Jensen, Mr. Hans Peder    male   20
+884                                                              Jensen, Mr. Niels Peder    male   48
+885                                                            Jensen, Mr. Svend Lauritz    male   17
+886                                                                  Jermyn, Miss. Annie  female   24
+887                                                    Johannesen-Bratthammer, Mr. Bernt    male   24
+888                                                           Johanson, Mr. Jakob Alfred    male   34
+889                                               Johansson Palmquist, Mr. Oskar Leander    male   26
+890                                                                  Johansson, Mr. Erik    male   22
+891                                                           Johansson, Mr. Gustaf Joel    male   33
+892                                                            Johansson, Mr. Karl Johan    male   31
+893                                                                  Johansson, Mr. Nils    male   29
+894                                                      Johnson, Master. Harold Theodor    male    4
+895                                                         Johnson, Miss. Eleanor Ileen  female    1
+896                                                                  Johnson, Mr. Alfred    male   49
+897                                                         Johnson, Mr. Malkolm Joackim    male   33
+898                                                      Johnson, Mr. William Cahoone Jr    male   19
+899                                    Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)  female   27
+900                                            Johnston, Master. William Arthur "Willie"    male   24
+901                                             Johnston, Miss. Catherine Helen "Carrie"  female   24
+902                                                               Johnston, Mr. Andrew G    male   24
+903                                    Johnston, Mrs. Andrew G (Elizabeth "Lily" Watson)  female   24
+904                                                                   Jonkoff, Mr. Lalio    male   23
+905                                                                    Jonsson, Mr. Carl    male   32
+906                                                            Jonsson, Mr. Nils Hilding    male   27
+907                                                              Jussila, Miss. Katriina  female   20
+908                                                             Jussila, Miss. Mari Aina  female   21
+909                                                                  Jussila, Mr. Eiriik    male   32
+910                                                           Kallio, Mr. Nikolai Erland    male   17
+911                                                       Kalvik, Mr. Johannes Halvorsen    male   21
+912                                                                    Karaic, Mr. Milan    male   30
+913                                                        Karlsson, Mr. Einar Gervasius    male   21
+914                                                    Karlsson, Mr. Julius Konrad Eugen    male   33
+915                                                            Karlsson, Mr. Nils August    male   22
+916                                                                   Karun, Miss. Manca  female    4
+917                                                                     Karun, Mr. Franz    male   39
+918                                                                    Kassem, Mr. Fared    male   24
+919                                     Katavelas, Mr. Vassilios ("Catavelas Vassilios")    male   18
+920                                                             Keane, Mr. Andrew "Andy"    male   24
+921                                                                    Keefe, Mr. Arthur    male   24
+922                                             Kelly, Miss. Anna Katherine "Annie Kate"  female   24
+923                                                                    Kelly, Miss. Mary  female   24
+924                                                                     Kelly, Mr. James    male   34
+925                                                                     Kelly, Mr. James    male   44
+926                                                                    Kennedy, Mr. John    male   24
+927                                                                   Khalil, Mr. Betros    male   24
+928                                            Khalil, Mrs. Betros (Zahie "Maria" Elias)  female   24
+929                                                                    Kiernan, Mr. John    male   24
+930                                                                  Kiernan, Mr. Philip    male   24
+931                                                              Kilgannon, Mr. Thomas J    male   24
+932                                                                    Kink, Miss. Maria  female   22
+933                                                                    Kink, Mr. Vincenz    male   26
+934                                                  Kink-Heilmann, Miss. Luise Gretchen  female    4
+935                                                             Kink-Heilmann, Mr. Anton    male   29
+936                                           Kink-Heilmann, Mrs. Anton (Luise Heilmann)  female   26
+937                                                         Klasen, Miss. Gertrud Emilia  female    1
+938                                                               Klasen, Mr. Klas Albin    male   18
+939                                       Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)  female   36
+940                                                                  Kraeff, Mr. Theodor    male   24
+941                                                                Krekorian, Mr. Neshan    male   25
+942                                                                   Lahoud, Mr. Sarkis    male   24
+943                                                       Laitinen, Miss. Kristina Sofia  female   37
+944                                                                   Laleff, Mr. Kristo    male   24
+945                                                                         Lam, Mr. Ali    male   24
+946                                                                         Lam, Mr. Len    male   24
+947                                                      Landergren, Miss. Aurora Adelia  female   22
+948                                                                    Lane, Mr. Patrick    male   24
+949                                                                       Lang, Mr. Fang    male   26
+950                                                           Larsson, Mr. August Viktor    male   29
+951                                                             Larsson, Mr. Bengt Edvin    male   29
+952                                                       Larsson-Rondberg, Mr. Edvard A    male   22
+953                                                    Leeni, Mr. Fahim ("Philip Zenni")    male   22
+954                                                        Lefebre, Master. Henry Forbes    male   24
+955                                                                   Lefebre, Miss. Ida  female   24
+956                                                               Lefebre, Miss. Jeannie  female   24
+957                                                              Lefebre, Miss. Mathilde  female   24
+958                                                        Lefebre, Mrs. Frank (Frances)  female   24
+959                                                           Leinonen, Mr. Antti Gustaf    male   32
+960                                                           Lemberopolous, Mr. Peter L    male   34
+961                                                                   Lennon, Miss. Mary  female   24
+962                                                                    Lennon, Mr. Denis    male   24
+963                                                                  Leonard, Mr. Lionel    male   36
+964                                                                    Lester, Mr. James    male   39
+965                                                               Lievens, Mr. Rene Aime    male   24
+966                                                Lindahl, Miss. Agda Thorilda Viktoria  female   25
+967                                                    Lindblom, Miss. Augusta Charlotta  female   45
+968                                                        Lindell, Mr. Edvard Bengtsson    male   36
+969                                  Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)  female   30
+970                                                          Lindqvist, Mr. Eino William    male   20
+971                                                                 Linehan, Mr. Michael    male   24
+972                                                                        Ling, Mr. Lee    male   28
+973                                                                   Lithman, Mr. Simon    male   24
+974                                                             Lobb, Mr. William Arthur    male   30
+975                                      Lobb, Mrs. William Arthur (Cordelia K Stanlick)  female   26
+976                                                                  Lockyer, Mr. Edward    male   24
+977                                                      Lovell, Mr. John Hall ("Henry")    male   20
+978                                                                    Lulic, Mr. Nikola    male   27
+979                                                          Lundahl, Mr. Johan Svensson    male   51
+980                                                             Lundin, Miss. Olga Elida  female   23
+981                                                           Lundstrom, Mr. Thure Edvin    male   32
+982                                                                Lyntakoff, Mr. Stanko    male   24
+983                                                           MacKay, Mr. George William    male   24
+984                                                     Madigan, Miss. Margaret "Maggie"  female   24
+985                                                            Madsen, Mr. Fridtjof Arne    male   24
+986                                                        Maenpaa, Mr. Matti Alexanteri    male   22
+987                                                           Mahon, Miss. Bridget Delia  female   24
+988                                                                      Mahon, Mr. John    male   24
+989                                                                   Maisner, Mr. Simon    male   24
+990                                                            Makinen, Mr. Kalle Edvard    male   29
+991                                                                     Mamee, Mr. Hanna    male   24
+992                                                                   Mangan, Miss. Mary  female   30
+993                                                             Mannion, Miss. Margareth  female   24
+994                                                              Mardirosian, Mr. Sarkis    male   24
+995                                                                   Markoff, Mr. Marin    male   35
+996                                                                   Markun, Mr. Johann    male   33
+997                                                              Masselmani, Mrs. Fatima  female   24
+998                                                                 Matinoff, Mr. Nicola    male   24
+999                                                    McCarthy, Miss. Catherine "Katie"  female   24
+1000                                                        McCormack, Mr. Thomas Joseph    male   24
+1001                                                                  McCoy, Miss. Agnes  female   24
+1002                                                                 McCoy, Miss. Alicia  female   24
+1003                                                                  McCoy, Mr. Bernard    male   24
+1004                                                      McDermott, Miss. Brigdet Delia  female   24
+1005                                                                 McEvoy, Mr. Michael    male   24
+1006                                                                McGovern, Miss. Mary  female   24
+1007                                                         McGowan, Miss. Anna "Annie"  female   15
+1008                                                            McGowan, Miss. Katherine  female   35
+1009                                                                 McMahon, Mr. Martin    male   24
+1010                                                                   McNamee, Mr. Neal    male   24
+1011                                                 McNamee, Mrs. Neal (Eileen O'Leary)  female   19
+1012                                                              McNeill, Miss. Bridget  female   24
+1013                                                      Meanwell, Miss. (Marion Ogden)  female   24
+1014                                             Meek, Mrs. Thomas (Annie Louise Rowley)  female   24
+1015                                                                    Meo, Mr. Alfonzo    male   55
+1016                                                                 Mernagh, Mr. Robert    male   24
+1017                                                            Midtsjo, Mr. Karl Albert    male   21
+1018                                                                    Miles, Mr. Frank    male   24
+1019                                                                    Mineff, Mr. Ivan    male   24
+1020                                                                  Minkoff, Mr. Lazar    male   21
+1021                                                               Mionoff, Mr. Stoytcho    male   28
+1022                                                                   Mitkoff, Mr. Mito    male   24
+1023                                                   Mockler, Miss. Helen Mary "Ellie"  female   24
+1024                                                             Moen, Mr. Sigurd Hansen    male   25
+1025                                                                 Moor, Master. Meier    male    6
+1026                                                                  Moor, Mrs. (Beila)  female   27
+1027                                                          Moore, Mr. Leonard Charles    male   24
+1028                                                                 Moran, Miss. Bertha  female   24
+1029                                                                 Moran, Mr. Daniel J    male   24
+1030                                                                    Moran, Mr. James    male   24
+1031                                                                 Morley, Mr. William    male   34
+1032                                                            Morrow, Mr. Thomas Rowan    male   24
+1033                                                              Moss, Mr. Albert Johan    male   24
+1034                                                            Moubarek, Master. Gerios    male   24
+1035                                   Moubarek, Master. Halim Gonios ("William George")    male   24
+1036                                    Moubarek, Mrs. George (Omine "Amenia" Alexander)  female   24
+1037                                                      Moussa, Mrs. (Mantoura Boulos)  female   24
+1038                                                            Moutal, Mr. Rahamin Haim    male   24
+1039                                                    Mullens, Miss. Katherine "Katie"  female   24
+1040                                                           Mulvihill, Miss. Bertha E  female   24
+1041                                                                 Murdlin, Mr. Joseph    male   24
+1042                                                      Murphy, Miss. Katherine "Kate"  female   24
+1043                                                         Murphy, Miss. Margaret Jane  female   24
+1044                                                                  Murphy, Miss. Nora  female   24
+1045                                             Myhrman, Mr. Pehr Fabian Oliver Malkolm    male   18
+1046                                                                Naidenoff, Mr. Penko    male   22
+1047                                                    Najib, Miss. Adele Kiamie "Jane"  female   15
+1048                                                         Nakid, Miss. Maria ("Mary")  female    1
+1049                                                                    Nakid, Mr. Sahid    male   20
+1050                                               Nakid, Mrs. Said (Waika "Mary" Mowad)  female   19
+1051                                                        Nancarrow, Mr. William Henry    male   33
+1052                                                                  Nankoff, Mr. Minko    male   24
+1053                                                                   Nasr, Mr. Mustafa    male   24
+1054                                                              Naughton, Miss. Hannah  female   24
+1055                                                                Nenkoff, Mr. Christo    male   24
+1056                                                        Nicola-Yarred, Master. Elias    male   12
+1057                                                         Nicola-Yarred, Miss. Jamila  female   14
+1058                                                      Nieminen, Miss. Manta Josefina  female   29
+1059                                                               Niklasson, Mr. Samuel    male   28
+1060                                                         Nilsson, Miss. Berta Olivia  female   18
+1061                                                     Nilsson, Miss. Helmina Josefina  female   26
+1062                                                       Nilsson, Mr. August Ferdinand    male   21
+1063                                                      Nirva, Mr. Iisakki Antino Aijo    male   41
+1064                                                                  Niskanen, Mr. Juha    male   39
+1065                                                        Nosworthy, Mr. Richard Cater    male   21
+1066                                                                 Novel, Mr. Mansouer    male   28
+1067                                                            Nysten, Miss. Anna Sofia  female   22
+1068                                                           Nysveen, Mr. Johan Hansen    male   61
+1069                                                                 O'Brien, Mr. Thomas    male   24
+1070                                                                O'Brien, Mr. Timothy    male   24
+1071                                     O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)  female   24
+1072                                                            O'Connell, Mr. Patrick D    male   24
+1073                                                               O'Connor, Mr. Maurice    male   24
+1074                                                               O'Connor, Mr. Patrick    male   24
+1075                                                              Odahl, Mr. Nils Martin    male   23
+1076                                                             O'Donoghue, Ms. Bridget  female   24
+1077                                                           O'Driscoll, Miss. Bridget  female   24
+1078                                                       O'Dwyer, Miss. Ellen "Nellie"  female   24
+1079                                                                  Ohman, Miss. Velin  female   22
+1080                                                                O'Keefe, Mr. Patrick    male   24
+1081                                                       O'Leary, Miss. Hanora "Norah"  female   24
+1082                                                           Olsen, Master. Artur Karl    male    9
+1083                                                            Olsen, Mr. Henry Margido    male   28
+1084                                                    Olsen, Mr. Karl Siegwart Andreas    male   42
+1085                                                               Olsen, Mr. Ole Martin    male   24
+1086                                                                 Olsson, Miss. Elina  female   31
+1087                                                    Olsson, Mr. Nils Johan Goransson    male   28
+1088                                                           Olsson, Mr. Oscar Wilhelm    male   32
+1089                                                         Olsvigen, Mr. Thor Anderson    male   20
+1090                                                              Oreskovic, Miss. Jelka  female   23
+1091                                                             Oreskovic, Miss. Marija  female   20
+1092                                                                 Oreskovic, Mr. Luka    male   20
+1093                                                                 Osen, Mr. Olaf Elon    male   16
+1094                                                                    Osman, Mrs. Mara  female   31
+1095                                                      O'Sullivan, Miss. Bridget Mary  female   24
+1096                                                      Palsson, Master. Gosta Leonard    male    2
+1097                                                         Palsson, Master. Paul Folke    male    6
+1098                                                          Palsson, Miss. Stina Viola  female    3
+1099                                                       Palsson, Miss. Torborg Danira  female    8
+1100                                         Palsson, Mrs. Nils (Alma Cornelia Berglund)  female   29
+1101                                                        Panula, Master. Eino Viljami    male    1
+1102                                                          Panula, Master. Juha Niilo    male    7
+1103                                                        Panula, Master. Urho Abraham    male    2
+1104                                                           Panula, Mr. Ernesti Arvid    male   16
+1105                                                            Panula, Mr. Jaako Arnold    male   14
+1106                                              Panula, Mrs. Juha (Maria Emilia Ojala)  female   41
+1107                                                                    Pasic, Mr. Jakob    male   21
+1108                                                                Patchett, Mr. George    male   19
+1109                                                                 Paulner, Mr. Uscher    male   24
+1110                                                                 Pavlovic, Mr. Stefo    male   32
+1111                                                      Peacock, Master. Alfred Edward    male    0
+1112                                                           Peacock, Miss. Treasteall  female    3
+1113                                                 Peacock, Mrs. Benjamin (Edith Nile)  female   26
+1114                                                                  Pearce, Mr. Ernest    male   24
+1115                                                                  Pedersen, Mr. Olaf    male   24
+1116                                                                 Peduzzi, Mr. Joseph    male   24
+1117                                                               Pekoniemi, Mr. Edvard    male   21
+1118                                                     Peltomaki, Mr. Nikolai Johannes    male   25
+1119                                                              Perkin, Mr. John Henry    male   22
+1120                                                            Persson, Mr. Ernst Ulrik    male   25
+1121                                                            Peter, Master. Michael J    male   24
+1122                                                                   Peter, Miss. Anna  female   24
+1123                                              Peter, Mrs. Catherine (Catherine Rizk)  female   24
+1124                                                                 Peters, Miss. Katie  female   24
+1125                                                                Petersen, Mr. Marius    male   24
+1126                                                             Petranec, Miss. Matilda  female   28
+1127                                                                Petroff, Mr. Nedelio    male   19
+1128                                                    Petroff, Mr. Pastcho ("Pentcho")    male   24
+1129                                                           Petterson, Mr. Johan Emil    male   25
+1130                                                     Pettersson, Miss. Ellen Natalia  female   18
+1131                                                  Pickard, Mr. Berk (Berk Trembisky)    male   32
+1132                                                              Plotcharsky, Mr. Vasil    male   24
+1133                                                                   Pokrnic, Mr. Mate    male   17
+1134                                                                   Pokrnic, Mr. Tome    male   24
+1135                                                               Radeff, Mr. Alexander    male   24
+1136                                             Rasmussen, Mrs. (Lena Jacobsen Solvang)  female   24
+1137                                                                    Razi, Mr. Raihed    male   24
+1138                                                              Reed, Mr. James George    male   24
+1139                                                                     Rekic, Mr. Tido    male   38
+1140                                                              Reynolds, Mr. Harold J    male   21
+1141                                                                Rice, Master. Albert    male   10
+1142                                                                Rice, Master. Arthur    male    4
+1143                                                                  Rice, Master. Eric    male    7
+1144                                                                Rice, Master. Eugene    male    2
+1145                                                           Rice, Master. George Hugh    male    8
+1146                                                Rice, Mrs. William (Margaret Norton)  female   39
+1147                                        Riihivouri, Miss. Susanna Juhantytar "Sanni"  female   22
+1148                                                                Rintamaki, Mr. Matti    male   35
+1149                                                     Riordan, Miss. Johanna "Hannah"  female   24
+1150                                                            Risien, Mr. Samuel Beard    male   24
+1151                                                          Risien, Mrs. Samuel (Emma)  female   24
+1152                                                             Robins, Mr. Alexander A    male   50
+1153                                      Robins, Mrs. Alexander A (Grace Charity Laury)  female   47
+1154                                                            Rogers, Mr. William John    male   24
+1155                                                          Rommetvedt, Mr. Knud Paust    male   24
+1156                                                         Rosblom, Miss. Salli Helena  female    2
+1157                                                         Rosblom, Mr. Viktor Richard    male   18
+1158                                            Rosblom, Mrs. Viktor (Helena Wilhelmina)  female   41
+1159                                                                 Roth, Miss. Sarah A  female   24
+1160                                                            Rouse, Mr. Richard Henry    male   50
+1161                                                        Rush, Mr. Alfred George John    male   16
+1162                                                                    Ryan, Mr. Edward    male   24
+1163                                                                   Ryan, Mr. Patrick    male   24
+1164                                                                      Saad, Mr. Amin    male   24
+1165                                                                    Saad, Mr. Khalil    male   25
+1166                                                               Saade, Mr. Jean Nassr    male   24
+1167                                                                Sadlier, Mr. Matthew    male   24
+1168                                                                 Sadowitz, Mr. Harry    male   24
+1169                                                        Saether, Mr. Simon Sivertsen    male   38
+1170                                                          Sage, Master. Thomas Henry    male   24
+1171                                                         Sage, Master. William Henry    male   14
+1172                                                                     Sage, Miss. Ada  female   24
+1173                                                        Sage, Miss. Constance Gladys  female   24
+1174                                                   Sage, Miss. Dorothy Edith "Dolly"  female   24
+1175                                                             Sage, Miss. Stella Anna  female   24
+1176                                                            Sage, Mr. Douglas Bullen    male   24
+1177                                                                 Sage, Mr. Frederick    male   24
+1178                                                            Sage, Mr. George John Jr    male   24
+1179                                                               Sage, Mr. John George    male   24
+1180                                                      Sage, Mrs. John (Annie Bullen)  female   24
+1181                                                            Salander, Mr. Karl Johan    male   24
+1182                                                    Salkjelsvik, Miss. Anna Kristine  female   21
+1183                                                           Salonen, Mr. Johan Werner    male   39
+1184                                                                   Samaan, Mr. Elias    male   24
+1185                                                                   Samaan, Mr. Hanna    male   24
+1186                                                                 Samaan, Mr. Youssef    male   24
+1187                                                     Sandstrom, Miss. Beatrice Irene  female    1
+1188                                 Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)  female   24
+1189                                                     Sandstrom, Miss. Marguerite Rut  female    4
+1190                                                                     Sap, Mr. Julius    male   25
+1191                                                      Saundercock, Mr. William Henry    male   20
+1192                                                       Sawyer, Mr. Frederick Charles    male   24
+1193                                                                  Scanlan, Mr. James    male   24
+1194                                                                  Sdycoff, Mr. Todor    male   24
+1195                                                            Shaughnessy, Mr. Patrick    male   24
+1196                                                         Sheerlinck, Mr. Jan Baptist    male   29
+1197                                                     Shellard, Mr. Frederick William    male   24
+1198                                                          Shine, Miss. Ellen Natalia  female   24
+1199                                                         Shorney, Mr. Charles Joseph    male   24
+1200                                                                   Simmons, Mr. John    male   24
+1201                                                               Sirayanian, Mr. Orsen    male   22
+1202                                                                 Sirota, Mr. Maurice    male   24
+1203                                                                   Sivic, Mr. Husein    male   40
+1204                                                           Sivola, Mr. Antti Wilhelm    male   21
+1205                                                           Sjoblom, Miss. Anna Sofia  female   18
+1206                                                               Skoog, Master. Harald    male    4
+1207                                                        Skoog, Master. Karl Thorsten    male   10
+1208                                                                  Skoog, Miss. Mabel  female    9
+1209                                                       Skoog, Miss. Margit Elizabeth  female    2
+1210                                                                  Skoog, Mr. Wilhelm    male   40
+1211                                     Skoog, Mrs. William (Anna Bernhardina Karlsson)  female   45
+1212                                                                Slabenoff, Mr. Petco    male   24
+1213                                                       Slocovski, Mr. Selman Francis    male   24
+1214                                                                 Smiljanic, Mr. Mile    male   24
+1215                                                                   Smith, Mr. Thomas    male   24
+1216                                                                  Smyth, Miss. Julia  female   24
+1217                                          Soholt, Mr. Peter Andreas Lauritz Andersen    male   19
+1218                                                       Somerton, Mr. Francis William    male   30
+1219                                                                  Spector, Mr. Woolf    male   24
+1220                                                             Spinner, Mr. Henry John    male   32
+1221                                                                   Staneff, Mr. Ivan    male   24
+1222                                                                 Stankovic, Mr. Ivan    male   33
+1223                                                     Stanley, Miss. Amy Zillah Elsie  female   23
+1224                                                          Stanley, Mr. Edward Roland    male   21
+1225                                                                  Storey, Mr. Thomas    male   60
+1226                                                                Stoytcheff, Mr. Ilia    male   19
+1227                                                         Strandberg, Miss. Ida Sofia  female   22
+1228                                                                  Stranden, Mr. Juho    male   31
+1229                                                                   Strilic, Mr. Ivan    male   27
+1230                                                          Strom, Miss. Telma Matilda  female    2
+1231                                          Strom, Mrs. Wilhelm (Elna Matilda Persson)  female   29
+1232                                                      Sunderland, Mr. Victor Francis    male   16
+1233                                                           Sundman, Mr. Johan Julian    male   44
+1234                                                              Sutehall, Mr. Henry Jr    male   25
+1235                                                                 Svensson, Mr. Johan    male   74
+1236                                                          Svensson, Mr. Johan Cervin    male   14
+1237                                                                  Svensson, Mr. Olof    male   24
+1238                                                          Tenglin, Mr. Gunnar Isidor    male   25
+1239                                                        Theobald, Mr. Thomas Leonard    male   34
+1240                                                     Thomas, Master. Assad Alexander    male    0
+1241                                                               Thomas, Mr. Charles P    male   24
+1242                                                                    Thomas, Mr. John    male   24
+1243                                                                 Thomas, Mr. Tannous    male   24
+1244                                           Thomas, Mrs. Alexander (Thamine "Thelma")  female   16
+1245                                                     Thomson, Mr. Alexander Morrison    male   24
+1246                                                          Thorneycroft, Mr. Percival    male   24
+1247                                   Thorneycroft, Mrs. Percival (Florence Kate White)  female   24
+1248                                                                  Tikkanen, Mr. Juho    male   32
+1249                                                                    Tobin, Mr. Roger    male   24
+1250                                                                 Todoroff, Mr. Lalio    male   24
+1251                                                          Tomlin, Mr. Ernest Portage    male   30
+1252                                                           Torber, Mr. Ernst William    male   44
+1253                                                                    Torfa, Mr. Assad    male   24
+1254                                                        Tornquist, Mr. William Henry    male   25
+1255                                                                   Toufik, Mr. Nakli    male   24
+1256                                                      Touma, Master. Georges Youssef    male    7
+1257                                                          Touma, Miss. Maria Youssef  female    9
+1258                                             Touma, Mrs. Darwis (Hanne Youssef Razi)  female   29
+1259                                                                 Turcin, Mr. Stjepan    male   36
+1260                                                             Turja, Miss. Anna Sofia  female   18
+1261                                                              Turkula, Mrs. (Hedwig)  female   63
+1262                                                 van Billiard, Master. James William    male   24
+1263                                                   van Billiard, Master. Walter John    male   11
+1264                                                     van Billiard, Mr. Austin Blyler    male   40
+1265                                                           Van Impe, Miss. Catharina  female   10
+1266                                                         Van Impe, Mr. Jean Baptiste    male   36
+1267                                Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)  female   30
+1268                                                         van Melkebeke, Mr. Philemon    male   24
+1269                                                    Vande Velde, Mr. Johannes Joseph    male   33
+1270                                                      Vande Walle, Mr. Nestor Cyriel    male   28
+1271                                                         Vanden Steen, Mr. Leo Peter    male   28
+1272                                                         Vander Cruyssen, Mr. Victor    male   47
+1273                                                  Vander Planke, Miss. Augusta Maria  female   18
+1274                                                           Vander Planke, Mr. Julius    male   31
+1275                                                     Vander Planke, Mr. Leo Edmondus    male   16
+1276                             Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)  female   31
+1277                                                                Vartanian, Mr. David    male   22
+1278                                                              Vendel, Mr. Olof Edvin    male   20
+1279                                                Vestrom, Miss. Hulda Amanda Adolfina  female   14
+1280                                                                     Vovk, Mr. Janko    male   22
+1281                                                                Waelens, Mr. Achille    male   22
+1282                                                                 Ware, Mr. Frederick    male   24
+1283                                                         Warren, Mr. Charles William    male   24
+1284                                                                   Webber, Mr. James    male   24
+1285                                                                 Wenzel, Mr. Linhart    male   32
+1286                                     Whabee, Mrs. George Joseph (Shawneene Abi-Saab)  female   38
+1287                                                    Widegren, Mr. Carl/Charles Peter    male   51
+1288                                                           Wiklund, Mr. Jakob Alfred    male   18
+1289                                                             Wiklund, Mr. Karl Johan    male   21
+1290                                                    Wilkes, Mrs. James (Ellen Needs)  female   47
+1291                                                    Willer, Mr. Aaron ("Abi Weller")    male   24
+1292                                                                  Willey, Mr. Edward    male   24
+1293                                                   Williams, Mr. Howard Hugh "Harry"    male   24
+1294                                                                Williams, Mr. Leslie    male   28
+1295                                                                 Windelov, Mr. Einar    male   21
+1296                                                                    Wirz, Mr. Albert    male   27
+1297                                                              Wiseman, Mr. Phillippe    male   24
+1298                                                           Wittevrongel, Mr. Camille    male   36
+1299                                                                 Yasbeck, Mr. Antoni    male   27
+1300                                             Yasbeck, Mrs. Antoni (Selini Alexander)  female   15
+1301                                                                Youseff, Mr. Gerious    male   45
+1302                                                                   Yousif, Mr. Wazli    male   24
+1303                                                               Yousseff, Mr. Gerious    male   24
+1304                                                                Zabour, Miss. Hileni  female   14
+1305                                                               Zabour, Miss. Thamine  female   24
+1306                                                           Zakarian, Mr. Mapriededer    male   26
+1307                                                                 Zakarian, Mr. Ortin    male   27
+1308                                                                  Zimmerman, Mr. Leo    male   29
